@@ -1,6 +1,6 @@
 # TEAM-Profile-Generator
 
-# Contributer n
+# Contributer 
  Loki Malone
 
 # Technologies
